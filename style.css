@@ -1,0 +1,131 @@
+div {
+    background-color: yellow;
+    /* background-image: url(krushna.jpg); */
+    /* background-repeat: repeat-x ; */
+    /* background-repeat:repeat-y; */
+    /* background-repeat:repeat; */
+    /* background-repeat:  no-repeat; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: auto; */
+    /* background-size: 100%100%; */
+    /* background-repeat: no-repeat;
+    background-position: top right; */
+
+
+
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    border: red;
+    border-radius: 5px;
+    color: red !important;
+
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: rgb(0, 243, 16);
+}
+
+p {
+    text-decoration: underline;
+    text-align: center;
+    border: 5px solid red;
+}
+
+a {
+    background-color: black;
+}
+
+body {
+    background-color: rgb(244, 244, 137);
+
+    background-color: color(srgb rgb(230, 57, 57) rgb(77, 202, 77) rgb(89, 89, 115));
+}
+
+img {
+    image-rendering: auto;
+    background-image: element(10px);
+    padding: 10px;
+}
+
+span {
+    background-color: rgb(243, 25, 25);
+}
+
+.none {
+    border-style: none;
+    border-color: rgb(0, 255, 255);
+    border-radius: 29px;
+}
+
+.hidden {
+    border-style: hidden;
+    border-color: rgb(230, 3, 255);
+    border-radius: 29px;
+}
+
+.dotted {
+    border-style: dotted;
+    border-color: rgb(195, 255, 0);
+    border-radius: 29px;
+}
+
+.dashed {
+    border-style: dashed;
+    border-color: rgb(0, 0, 0);
+    border-radius: 29px;
+}
+
+.solid {
+    border-style: solid;
+    border-color: rgb(225, 255, 0);
+    border-radius: 29px;
+}
+
+.double {
+    border-style: double;
+    border-color: rgb(38, 0, 255);
+    border-radius: 29px;
+}
+
+.groove {
+    border-style: groove;
+    border-color: rgb(249, 4, 4);
+    border-radius: 29px;
+}
+
+.ridge {
+    border-style: ridge;
+    border-color: rgb(0, 0, 0);
+    border-radius: 29px;
+}
+
+.inset {
+    border-style: inset;
+    border-color: rgb(42, 223, 60);
+    border-radius: 29px;
+}
+
+.outset {
+    border-style: outset;
+    border-color: rgb(255, 0, 43);
+    border-radius: 29px;
+}
+.one{
+    box-sizing: border-box;
+    box-align: center;
+    border-color: aqua;
+}
+.button{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    display: block;
+    margin: auto;
+}
